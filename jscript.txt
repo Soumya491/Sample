@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1> Hello</h1>
+<p id="demo"> Script funuctionality</p>
+<script>
+document.write(3+2);
+</script>
+</body>
+</html>
